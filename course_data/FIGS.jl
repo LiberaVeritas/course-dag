@@ -1,1 +1,1 @@
-{"name": "FIGS 196 Freshman Interest Groups", "term": "Fall 2020", "link": "https://mcgill.ca/study/2020-2021/courses/figs-196", "subject": "FIGS"}
+{"name": "FIGS 196 Freshman Interest Groups", "term": "This course is not scheduled for the 2024-2025 academic year.", "link": "https://www.mcgill.ca/study/2024-2025/courses/figs-196", "subject": "FIGS"}
