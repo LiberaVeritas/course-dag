@@ -5,7 +5,7 @@ from ..items import CoursespiderItem, CourseItemLoader
 from scrapy.linkextractors import LinkExtractor
 
 allurls = subject_data.start(
-    f'https://mcgill.ca/study/2020-2021/courses/search').links
+    f'https://www.mcgill.ca/study/2024-2025/courses/search').links
 
 class CourseSpider(scrapy.Spider):
     name = 'courses'
