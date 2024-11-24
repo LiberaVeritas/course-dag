@@ -1,9 +1,9 @@
 {"name": "CTPT 430 Fundamentals of Integrated Business Systems (3 credits)", "prereq": ["ctpt-200", "ctpt-201", "ctpt-202", "ctpt-206", "ctpt-208"], "term": "Fall 2024", "link": "https://www.mcgill.ca/study/2024-2025/courses/ctpt-430", "subject": "CTPT"}
-{"name": "CTPT 311 Supply Chain Risk Management (3 credits)", "prereq": ["ctpt-200"], "term": "Fall 2024", "link": "https://www.mcgill.ca/study/2024-2025/courses/ctpt-311", "subject": "CTPT"}
 {"name": "CTPT 410 International Trade and Logistics (3 credits)", "term": "This course is not scheduled for the 2024-2025 academic year.", "link": "https://www.mcgill.ca/study/2024-2025/courses/ctpt-410", "subject": "CTPT"}
-{"name": "CTPT 208 Fundamentals of Logistics (3 credits)", "term": "Fall 2024", "link": "https://www.mcgill.ca/study/2024-2025/courses/ctpt-208", "subject": "CTPT"}
-{"name": "CTPT 310 Production and Inventory Planning and Control 2 (3 credits)", "prereq": ["cmsc-000", "ctpt-202"], "term": "This course is not scheduled for the 2024-2025 academic year.", "link": "https://www.mcgill.ca/study/2024-2025/courses/ctpt-310", "subject": "CTPT"}
-{"name": "CTPT 206 Transportation Management and Economics (3 credits)", "term": "Winter 2025", "link": "https://www.mcgill.ca/study/2024-2025/courses/ctpt-206", "subject": "CTPT"}
 {"name": "CTPT 202 Production and Inventory Planning and Control 1 (3 credits)", "term": "Fall 2024", "link": "https://www.mcgill.ca/study/2024-2025/courses/ctpt-202", "subject": "CTPT"}
+{"name": "CTPT 208 Fundamentals of Logistics (3 credits)", "term": "Fall 2024", "link": "https://www.mcgill.ca/study/2024-2025/courses/ctpt-208", "subject": "CTPT"}
+{"name": "CTPT 206 Transportation Management and Economics (3 credits)", "term": "Winter 2025", "link": "https://www.mcgill.ca/study/2024-2025/courses/ctpt-206", "subject": "CTPT"}
+{"name": "CTPT 310 Production and Inventory Planning and Control 2 (3 credits)", "prereq": ["cmsc-000", "ctpt-202"], "term": "This course is not scheduled for the 2024-2025 academic year.", "link": "https://www.mcgill.ca/study/2024-2025/courses/ctpt-310", "subject": "CTPT"}
+{"name": "CTPT 311 Supply Chain Risk Management (3 credits)", "prereq": ["ctpt-200"], "term": "Fall 2024", "link": "https://www.mcgill.ca/study/2024-2025/courses/ctpt-311", "subject": "CTPT"}
 {"name": "CTPT 201 Sourcing (3 credits)", "term": "Winter 2025", "link": "https://www.mcgill.ca/study/2024-2025/courses/ctpt-201", "subject": "CTPT"}
 {"name": "CTPT 200 Introduction to Supply Chain Management (3 credits)", "term": "Winter 2025", "link": "https://www.mcgill.ca/study/2024-2025/courses/ctpt-200", "subject": "CTPT"}

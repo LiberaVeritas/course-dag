@@ -1,1 +1,1 @@
-{"name": "OPTH 300 TCP Ophthalmology (1 credit)", "term": "Winter 2021", "link": "https://mcgill.ca/study/2020-2021/courses/opth-300", "subject": "OPTH"}
+{"name": "OPTH 300 TCP Ophthalmology (1 credit)", "term": "Winter 2025, Summer 2025", "link": "https://www.mcgill.ca/study/2024-2025/courses/opth-300", "subject": "OPTH"}

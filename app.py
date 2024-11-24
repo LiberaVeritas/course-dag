@@ -533,6 +533,7 @@ def update_course(n, sub, filters, course, cur_options):
     ]
 )
 def update_minimap(node, current_elements, cur_header, cur_href):
+    breakpoint()
     current_course = node['data']['id']
     try:
         return graph.get_elements(graph.learning_path(current_course, graph.bfs_tree)), infos[current_course]['name'], infos[current_course]['link'], False, ''

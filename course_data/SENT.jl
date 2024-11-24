@@ -1,1 +1,1 @@
-{"name": "SENT 499 Internship: Social Entrepreneurship (3 credits)", "term": "Fall 2020, Winter 2021", "link": "https://mcgill.ca/study/2020-2021/courses/sent-499", "subject": "SENT"}
+{"name": "SENT 499 Internship: Social Entrepreneurship (3 credits)", "term": "Fall 2024, Winter 2025", "link": "https://www.mcgill.ca/study/2024-2025/courses/sent-499", "subject": "SENT"}

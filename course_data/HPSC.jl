@@ -1,2 +1,2 @@
-{"name": "HPSC 500 Interdisciplinary Seminar: History & Philosophy of\r Science (3 credits)", "term": "Fall 2024, Winter 2025", "link": "https://www.mcgill.ca/study/2024-2025/courses/hpsc-500", "subject": "HPSC"}
 {"name": "HPSC 300 Independent Studies: History and Philosophy of Science (3 credits)", "term": "Fall 2024, Winter 2025", "link": "https://www.mcgill.ca/study/2024-2025/courses/hpsc-300", "subject": "HPSC"}
+{"name": "HPSC 500 Interdisciplinary Seminar: History & Philosophy of\r Science (3 credits)", "term": "Fall 2024, Winter 2025", "link": "https://www.mcgill.ca/study/2024-2025/courses/hpsc-500", "subject": "HPSC"}

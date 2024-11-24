@@ -1,4 +1,4 @@
+{"name": "CCS2 510 Computer Network and Internet Security (3 credits)", "term": "This course is not scheduled for the 2024-2025 academic year.", "link": "https://www.mcgill.ca/study/2024-2025/courses/ccs2-510", "subject": "CCS2"}
 {"name": "CCS2 590 Topics in Information Technology (3 credits)", "term": "This course is not scheduled for the 2024-2025 academic year.", "link": "https://www.mcgill.ca/study/2024-2025/courses/ccs2-590", "subject": "CCS2"}
 {"name": "CCS2 550 Multimedia Communication Design and Marketing (3 credits)", "term": "This course is not scheduled for the 2024-2025 academic year.", "link": "https://www.mcgill.ca/study/2024-2025/courses/ccs2-550", "subject": "CCS2"}
-{"name": "CCS2 510 Computer Network and Internet Security (3 credits)", "term": "This course is not scheduled for the 2024-2025 academic year.", "link": "https://www.mcgill.ca/study/2024-2025/courses/ccs2-510", "subject": "CCS2"}
 {"name": "CCS2 508 Web Application Development (3 credits)", "term": "This course is not scheduled for the 2024-2025 academic year.", "link": "https://www.mcgill.ca/study/2024-2025/courses/ccs2-508", "subject": "CCS2"}

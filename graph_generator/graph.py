@@ -158,6 +158,7 @@ dfs_tree = partial(nx.dfs_tree, G=BIG_GRAPH)
 #             f"There's no course called {course}.") from e
 
 def learning_path(course, search_method):
+    breakpoint()
     code, number = split_course_name(course)
     try:
         path = search_method(source=code.lower() + '\n' + number)

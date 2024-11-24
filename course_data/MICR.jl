@@ -1,6 +1,6 @@
-{"name": "MICR 341 Mechanisms of Pathogenicity (3 credits)", "prereq": ["lsci-230"], "term": "This course is not scheduled for the 2024-2025 academic year.", "link": "https://www.mcgill.ca/study/2024-2025/courses/micr-341", "subject": "MICR"}
-{"name": "MICR 773 Advanced Environmental Microbiology (3 credits)", "term": "Winter 2025", "link": "https://www.mcgill.ca/study/2024-2025/courses/micr-773", "subject": "MICR"}
-{"name": "MICR 331 Microbial Ecology (3 credits)", "prereq": ["lsci-230", "aebi-212", "envr-202"], "term": "Winter 2025", "link": "https://www.mcgill.ca/study/2024-2025/courses/micr-331", "subject": "MICR"}
 {"name": "MICR 338 Bacterial Molecular Genetics (3 credits)", "prereq": ["lsci-230"], "term": "Fall 2024", "link": "https://www.mcgill.ca/study/2024-2025/courses/micr-338", "subject": "MICR"}
+{"name": "MICR 331 Microbial Ecology (3 credits)", "prereq": ["lsci-230", "aebi-212", "envr-202"], "term": "Winter 2025", "link": "https://www.mcgill.ca/study/2024-2025/courses/micr-331", "subject": "MICR"}
+{"name": "MICR 773 Advanced Environmental Microbiology (3 credits)", "term": "Winter 2025", "link": "https://www.mcgill.ca/study/2024-2025/courses/micr-773", "subject": "MICR"}
 {"name": "MICR 450 Environmental Microbiology (3 credits)", "prereq": ["lsci-230"], "term": "Winter 2025", "link": "https://www.mcgill.ca/study/2024-2025/courses/micr-450", "subject": "MICR"}
+{"name": "MICR 341 Mechanisms of Pathogenicity (3 credits)", "prereq": ["lsci-230"], "term": "This course is not scheduled for the 2024-2025 academic year.", "link": "https://www.mcgill.ca/study/2024-2025/courses/micr-341", "subject": "MICR"}
 {"name": "MICR 772 Molecular Microbiology (3 credits)", "term": "This course is not scheduled for the 2024-2025 academic year.", "link": "https://www.mcgill.ca/study/2024-2025/courses/micr-772", "subject": "MICR"}

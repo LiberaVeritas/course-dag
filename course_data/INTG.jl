@@ -1,3 +1,3 @@
-{"name": "INTG 215 Entrepreneurship Essentials for Non-Management Students (3 credits)", "term": "Fall 2024, Winter 2025", "link": "https://www.mcgill.ca/study/2024-2025/courses/intg-215", "subject": "INTG"}
-{"name": "INTG 201 Integrated Management Essentials 1 (3 credits)", "term": "This course is not scheduled for the 2024-2025 academic year.", "link": "https://www.mcgill.ca/study/2024-2025/courses/intg-201", "subject": "INTG"}
 {"name": "INTG 202 Integrated Management Essentials 2 (3 credits)", "term": "This course is not scheduled for the 2024-2025 academic year.", "link": "https://www.mcgill.ca/study/2024-2025/courses/intg-202", "subject": "INTG"}
+{"name": "INTG 201 Integrated Management Essentials 1 (3 credits)", "term": "This course is not scheduled for the 2024-2025 academic year.", "link": "https://www.mcgill.ca/study/2024-2025/courses/intg-201", "subject": "INTG"}
+{"name": "INTG 215 Entrepreneurship Essentials for Non-Management Students (3 credits)", "term": "Fall 2024, Winter 2025", "link": "https://www.mcgill.ca/study/2024-2025/courses/intg-215", "subject": "INTG"}

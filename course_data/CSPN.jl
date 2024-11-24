@@ -1,3 +1,3 @@
 {"name": "CSPN 544 Professional Discourse (3 credits)", "prereq": ["cspn-541"], "term": "This course is not scheduled for the 2024-2025 academic year.", "link": "https://www.mcgill.ca/study/2024-2025/courses/cspn-544", "subject": "CSPN"}
-{"name": "CSPN 541 Language and Culture for Professional Communication (3 credits)", "term": "This course is not scheduled for the 2024-2025 academic year.", "link": "https://www.mcgill.ca/study/2024-2025/courses/cspn-541", "subject": "CSPN"}
 {"name": "CSPN 542 Written Communication Contexts (3 credits)", "prereq": ["cspn-541"], "term": "This course is not scheduled for the 2024-2025 academic year.", "link": "https://www.mcgill.ca/study/2024-2025/courses/cspn-542", "subject": "CSPN"}
+{"name": "CSPN 541 Language and Culture for Professional Communication (3 credits)", "term": "This course is not scheduled for the 2024-2025 academic year.", "link": "https://www.mcgill.ca/study/2024-2025/courses/cspn-541", "subject": "CSPN"}
